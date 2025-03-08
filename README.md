@@ -16,10 +16,10 @@ A simple and efficient task management app built with **Flutter & BLoC**, allowi
 ## 📸 Screenshots  
 
 ### 🔐 Authentication  
-![Signup](assets/screenshots/signup.png) ![Login](assets/screenshots/login.png)  
+![Signup](https://github.com/user-attachments/assets/8293763a-0875-47cd-bc61-c739078879d4) ![Login](https://github.com/user-attachments/assets/7f971cbb-4e1c-41b4-91ad-feb49f1e9f1f)  
 
 ### ✅ Task Management  
-![Task List](assets/screenshots/task_list.png) ![Add Task](assets/screenshots/add_task.png)
+![Task List](https://github.com/user-attachments/assets/39705063-db0b-43cd-99fa-1d09642f26f0) ![Add Task](https://github.com/user-attachments/assets/47f5b61c-a9da-4cf1-ba47-d200b4f5f59b)
 
 ## 🚀 Getting Started
 1. **Clone the repository**  
