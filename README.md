@@ -1,16 +1,37 @@
-# task_management_app
+# 📝 Task Management App
 
-A new Flutter project.
+A simple and efficient task management app built with **Flutter & BLoC**, allowing users to create, update, delete, and filter tasks based on **priority** and **status**.
 
-## Getting Started
+## ✨ Features
+- 📌 **Add, Edit, and Delete Tasks**  
+- 🔄 **Sort by Priority (High → Medium → Low)**  
+- ✅ **Sort by Status (Completed → Incomplete)**  
+- 🚀 **State Management with BLoC (Business Logic Component)**  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Flutter (Dart)**
+- **Flutter BLoC**
+- **Firebase**  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔐 Authentication  
+![Signup](assets/screenshots/signup.png) ![Login](assets/screenshots/login.png)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ✅ Task Management  
+![Task List](assets/screenshots/task_list.png) ![Add Task](assets/screenshots/add_task.png)
+
+## 🚀 Getting Started
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/Sumit-9900/Task-Management-App.git
+
+   cd Task-Management-App
+2. **Install dependencies**   
+    ```sh
+    flutter pub get
+3. **Run the app**
+    ```sh
+    flutter run
+## 🎯 Conclusion  
+The **Task Management App** is a powerful and intuitive tool designed to help users efficiently manage their daily tasks. With features like sorting, filtering, and a clean UI, it enhances productivity and organization. Built with **Flutter & BLoC**, the app ensures smooth performance and scalability.  
